@@ -17,3 +17,6 @@ Advancement required to do:
 1) Better images for background theme.
 2) Required to make proper .exe file.
 3) Update Hiscore in backend using php or other language.
+
+
+** Note : The Game file cannot be uploaded in github so download it manually OR you can add your own music **
